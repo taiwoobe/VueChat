@@ -1,6 +1,6 @@
 # vue-firebase
 
-> A SPA showing how to use Firebase Realtime Database and Fiebase Authentication with our VueJS Project.
+> A SPA showing how to use Firebase Realtime Database and Firebase Authentication with our VueJS Project.
 
 > The live demo can be viewed here: [mean-can.surge.sh](http://mean-can.surge.sh)
 
